@@ -1,0 +1,17 @@
+hash: db9a6e36f4614c531787bc5307cc39fd88c09c54003b8a399d739c875c6839c5
+imports:
+- name: golang.org/x/net
+  subpackages:
+  - http2/hpack
+  - http2
+  - idna
+  - lex/httplex
+  version: f01ecb60fe3835d80d9a0b7b2bf24b228c89260e
+- name: golang.org/x/text
+  subpackages:
+  - transform
+  - unicode/norm
+  - unicode/bidi
+  - secure/bidirule
+  version: 825fc78a2fd6fa0a5447e300189e3219e05e1f25
+updated: '2018-06-09T13:13:46.825554+00:00'

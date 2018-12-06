@@ -1,0 +1,17 @@
+import:
+- package: golang.org/x/net
+  subpackages:
+  - http2/hpack
+  - http2
+  - idna
+  - lex/httplex
+  version: f01ecb60fe3835d80d9a0b7b2bf24b228c89260e
+- package: golang.org/x/text
+  subpackages:
+  - transform
+  - unicode/norm
+  - unicode/bidi
+  - secure/bidirule
+  version: 825fc78a2fd6fa0a5447e300189e3219e05e1f25
+package: github.com/cockroachdb/cmux
+
